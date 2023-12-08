@@ -2,13 +2,13 @@
 
 ## 🚀 Aspiring Front-end Developer 
 
-🌐 Passionate about crafting seamless and responsive user interfaces using HTML, CSS, and JavaScript. Proficient in React to build dynamic and engaging web applications.
+🌐 Passionate about crafting seamless and responsive user interfaces using **HTML**, **CSS**, and **JavaScript**. Proficient in **React** to build dynamic and engaging web applications.
 
-🔧 Experience in leveraging Express.js and MongoDB for back-end development, ensuring a robust and scalable foundation for projects.
+🔧 Experience in leveraging **Express.js** and **MongoDB** for back-end development, ensuring a robust and scalable foundation for projects.
 
-💡 Eager to contribute and learn in an internship role, bringing creativity and dedication to the table. Keen interest in exploring innovative solutions and staying up-to-date with the latest trends in web development.
+💡 Eager to contribute and learn, bringing creativity and dedication to the table. Keen interest in exploring innovative solutions and staying up-to-date with the latest trends in web development.
 
-📚 Currently seeking internship opportunities to further enhance skills and gain real-world experience. Let's connect and build something amazing together! 💻✨
+📚 Let's connect and build something amazing together! 💻✨
 
 
 ## 💻 Technologies that I know
