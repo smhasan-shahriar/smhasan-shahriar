@@ -1,10 +1,10 @@
-![Header](./cover.png)
+![Header](./header.png)
 
-## 🚀 Aspiring Front-end Developer 
+## 🚀 Aspiring Web Developer 
 
 🌐 Passionate about crafting seamless and responsive user interfaces using **HTML**, **CSS**, and **JavaScript**. Proficient in **React** to build dynamic and engaging web applications.
 
-🔧 Experience in leveraging **Express.js** and **MongoDB** for back-end development, ensuring a robust and scalable foundation for projects.
+🔧 Learning in leveraging **Express.js** and **MongoDB** for back-end development, ensuring a robust and scalable foundation for projects.
 
 💡 Eager to contribute and learn, bringing creativity and dedication to the table. Keen interest in exploring innovative solutions and staying up-to-date with the latest trends in web development.
 
@@ -28,12 +28,41 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smhasan-shahriar&theme=apprentice" alt="GitHub Profile Stats">
 </p>
 
-<br />
-<br />
 
-<div align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=smhasan-shahriar&theme=tokyonight" alt="GitHub Streak" /></a>
+# 🚀 Projects
 
-</div> 
+## 🛠️ Nexus Asset Management
 
+A robust system for company asset management. Admins create/manage assets, users request assets. Dynamic user home, custom requests, profile updates, and efficient filtering.
+
+**Technologies Used:**
+- Front-end: React, Tailwind CSS
+- Styling: Tailwind CSS
+- Back-end: Node.js, Express.js
+- Database: MongoDB
+- Authentication: Firebase
+
+---
+
+## 🛒 Tech Brand Shop
+
+Explore tech products from 6 brands. View brand details, product information, and manage individual carts. Users can add, update, and delete products for a personalized shopping experience.
+
+**Technologies Used:**
+- Front-end: React, Tailwind CSS
+- Styling: Tailwind CSS
+- Back-end: Node.js, Express.js
+- Database: MongoDB
+- Authentication: Firebase
+
+---
+
+## 🌐 The Blog Hub
+
+An insightful blog collection. Users view recent blogs, comment, add to wishlist, and explore featured content. Authors can update blogs for continuous engagement.
+
+**Technologies Used:**
+- Front-end: React, Tailwind CSS
+- Back-end: Node.js, Express.js
+- Database: MongoDB
+- Authentication: Firebase with JWT
