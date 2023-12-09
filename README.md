@@ -8,8 +8,6 @@
 
 💡 Eager to contribute and learn, bringing creativity and dedication to the table. Keen interest in exploring innovative solutions and staying up-to-date with the latest trends in web development.
 
-📚 Let's connect and build something amazing together! 💻✨
-
 
 ## 💻 Technologies that I know
 
@@ -42,10 +40,8 @@ A robust system for company asset management. Admins create/manage assets, users
 - Advanced Asset and Request Filtering
 
 **Technologies Used:**
-- Front-end: React, Tailwind CSS
-- Back-end: Node.js, Express.js
-- Database: MongoDB
-- Authentication: Firebase
+
+React, Tailwind CSS, Express.js, MongoDB, Firebase
 
 
 **[Client Side Link](https://github.com/smhasan-shahriar/nexus-asset-management-client-side)**
@@ -69,10 +65,8 @@ Explore tech products from 6 brands. View brand details, product information, an
 
 
 **Technologies Used:**
-- Front-end: React, Tailwind CSS
-- Back-end: Node.js, Express.js
-- Database: MongoDB
-- Authentication: Firebase
+
+React, Tailwind CSS, Express.js, MongoDB, Firebase
 
 **[Client Side Link](https://github.com/smhasan-shahriar/tech-brand-shop-client-side)**
 <br/>
@@ -93,10 +87,8 @@ An insightful blog collection. Users view recent blogs, comment, add to wishlist
 - Featured Blogs Section
 
 **Technologies Used:**
-- Front-end: React, Tailwind CSS
-- Back-end: Node.js, Express.js
-- Database: MongoDB
-- Authentication: Firebase with JWT
+
+React, Tailwind CSS, Express.js, MongoDB, Firebase, JWT
 
 **[Client Side Link](https://github.com/smhasan-shahriar/the-blog-hub-client-side)**
 <br/>
