@@ -4,7 +4,7 @@
 
 🌐 Passionate about crafting smooth and responsive user interfaces using **HTML**, **CSS**, and **JavaScript**. Proficient in **React** to build dynamic and engaging web applications.
 
-🔧 Learning in leveraging **Express.js** and **MongoDB** for back-end development, ensuring a robust and scalable foundation for projects.
+🔧 Learning to leverage **Express.js** and **MongoDB** for back-end development, ensuring a robust and scalable server side foundation for projects.
 
 💡 Eager to contribute and learn, bringing creativity and dedication to the table. Keen interest in exploring innovative solutions and staying up-to-date with the latest trends in web development.
 
