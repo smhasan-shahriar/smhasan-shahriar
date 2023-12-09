@@ -2,7 +2,7 @@
 
 # 🚀 Aspiring Web Developer 
 
-🌐 Passionate about crafting seamless and responsive user interfaces using **HTML**, **CSS**, and **JavaScript**. Proficient in **React** to build dynamic and engaging web applications.
+🌐 Passionate about crafting smooth and responsive user interfaces using **HTML**, **CSS**, and **JavaScript**. Proficient in **React** to build dynamic and engaging web applications.
 
 🔧 Learning in leveraging **Express.js** and **MongoDB** for back-end development, ensuring a robust and scalable foundation for projects.
 
@@ -12,7 +12,7 @@
 # 💻 Technologies that I know
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/smhasan-shahriar">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,tailwind,git&perline=4" />
   </a>
 </p>
@@ -26,6 +26,23 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smhasan-shahriar&theme=apprentice" alt="GitHub Profile Stats">
 </p>
 
+<br/>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=smhasan-shahriar&theme=dark" alt="GitHub Streak" /></a>
+</p>
+
+# 🔗 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/adorshahriar/">
+    <img style="height: 50px; margin-right: 10px;" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ador.shahriar@gmail.com">
+  <img style="height: 50px;" src="./gmail.png" />
+  </a>
+</p>
+
+<br/>
 
 # 🚀 Projects
 
