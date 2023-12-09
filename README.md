@@ -1,4 +1,4 @@
-![Header](./cover.png)
+![Header](./cover1.png)
 
 # 🚀 Junior Web Developer 
 
