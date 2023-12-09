@@ -35,12 +35,25 @@
 
 A robust system for company asset management. Admins create/manage assets, users request assets. Dynamic user home, custom requests, profile updates, and efficient filtering.
 
+**Key Features:**
+- Dynamic Dashboard
+- Asset Request and Management
+- User-Friendly Profile Management
+- Advanced Asset and Request Filtering
+
 **Technologies Used:**
 - Front-end: React, Tailwind CSS
-- Styling: Tailwind CSS
 - Back-end: Node.js, Express.js
 - Database: MongoDB
 - Authentication: Firebase
+
+
+**[Client Side Link](https://github.com/smhasan-shahriar/nexus-asset-management-client-side)**
+<br/>
+**[Sever Side Link](https://github.com/smhasan-shahriar/nexus-asset-management-server-side)**
+<br/>
+**[Live Link](https://sparkly-parfait-a3fbdc.netlify.app/)**
+
 
 ---
 
@@ -48,12 +61,24 @@ A robust system for company asset management. Admins create/manage assets, users
 
 Explore tech products from 6 brands. View brand details, product information, and manage individual carts. Users can add, update, and delete products for a personalized shopping experience.
 
+**Key Features:**
+- Brand-Centric Browsing
+- Flexible Product Management
+- Individual Shopping Cart
+- Ad Display and Product Details
+
+
 **Technologies Used:**
 - Front-end: React, Tailwind CSS
-- Styling: Tailwind CSS
 - Back-end: Node.js, Express.js
 - Database: MongoDB
 - Authentication: Firebase
+
+**[Client Side Link](https://github.com/smhasan-shahriar/tech-brand-shop-client-side)**
+<br/>
+**[Sever Side Link](https://github.com/smhasan-shahriar/tech-brand-shop-server-side)**
+<br/>
+**[Live Link](https://brand-shop-9b1a9.web.app/)**
 
 ---
 
@@ -61,8 +86,20 @@ Explore tech products from 6 brands. View brand details, product information, an
 
 An insightful blog collection. Users view recent blogs, comment, add to wishlist, and explore featured content. Authors can update blogs for continuous engagement.
 
+**Key Features:**
+- Recent Blogs and Detailed View
+- Interactive Comments Section
+- Wishlist Feature
+- Featured Blogs Section
+
 **Technologies Used:**
 - Front-end: React, Tailwind CSS
 - Back-end: Node.js, Express.js
 - Database: MongoDB
 - Authentication: Firebase with JWT
+
+**[Client Side Link](https://github.com/smhasan-shahriar/the-blog-hub-client-side)**
+<br/>
+**[Sever Side Link](https://github.com/smhasan-shahriar/the-blog-hub-server-side)**
+<br/>
+**[Live Link](https://brand-shop-9b1a9.web.app/)**
