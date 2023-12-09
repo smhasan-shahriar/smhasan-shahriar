@@ -1,6 +1,6 @@
 ![Header](./cover.png)
 
-## 🚀 Aspiring Web Developer 
+# 🚀 Aspiring Web Developer 
 
 🌐 Passionate about crafting seamless and responsive user interfaces using **HTML**, **CSS**, and **JavaScript**. Proficient in **React** to build dynamic and engaging web applications.
 
@@ -9,7 +9,7 @@
 💡 Eager to contribute and learn, bringing creativity and dedication to the table. Keen interest in exploring innovative solutions and staying up-to-date with the latest trends in web development.
 
 
-## 💻 Technologies that I know
+# 💻 Technologies that I work with
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## 📈 Current Stats
+# 📈 Current Stats
 
 <br/>
 
