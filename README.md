@@ -34,7 +34,7 @@
 # 🔗 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/adorshahriar/">
+  <a href="https://www.linkedin.com/in/adorshahriar/"  target="_blank">
     <img style="height: 50px; margin-right: 10px;" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ador.shahriar@gmail.com">
