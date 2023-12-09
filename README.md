@@ -1,6 +1,6 @@
 ![Header](./cover.png)
 
-# 🚀 Aspiring Web Developer 
+# 🚀 Junior Web Developer 
 
 🌐 Passionate about crafting smooth and responsive user interfaces using **HTML**, **CSS**, and **JavaScript**. Proficient in **React** to build dynamic and engaging web applications.
 
