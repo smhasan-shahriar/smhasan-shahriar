@@ -44,7 +44,7 @@
 
 <br/>
 
-# 🚀 Projects
+# 🚀 Recent Projects
 
 ## 🛠️ Nexus Asset Management
 
